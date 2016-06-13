@@ -6,7 +6,7 @@ I definitely do not recommend anyone to actually use it at this point. I use it 
 
 The Tkinter GUI is desinged to fit on the official 7" multitouch display for the Raspberry Pi.
 
-Dependencies
-Python 3.x (tested with 3.5) standard library
+Dependencies<br>
+Python 3.x (tested with 3.5) standard library<br>
 VLC Media Player for playing the alarm sound
 Some web browser for viewing the license from within the aplication
